@@ -16,6 +16,7 @@
         echo 'feature1';
         echo 'added panel';
         echo 'changed link';
+        echo 'changed color';
     ?>
 </body>
 </html>
