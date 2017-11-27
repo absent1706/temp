@@ -19,6 +19,7 @@
         echo 'added panel';
         echo 'changed link';
         echo 'changed color';
+        echo 'changed something';
     ?>
 </body>
 </html>
