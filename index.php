@@ -12,6 +12,7 @@
         echo 2+3;
         echo 'ololo';
         echo 'trololo';
+        echo 'feature1';
     ?>
 </body>
 </html>
