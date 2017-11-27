@@ -11,6 +11,7 @@
     <?php 
         echo 2+3;
         echo 'ololo';
+        echo 'trololo';
     ?>
 </body>
 </html>
