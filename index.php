@@ -9,6 +9,7 @@
     <p>lorem</p>
     <p>lorem</p>
     hotfix
+    feautre 4
     <?php 
         echo 2+3;
         echo 'ololo';
