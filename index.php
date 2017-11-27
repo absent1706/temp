@@ -14,6 +14,7 @@
         echo 'ololo';
         echo 'trololo';
         echo 'feature1';
+        echo 'added panel';
     ?>
 </body>
 </html>
