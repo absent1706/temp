@@ -10,6 +10,7 @@
     <p>lorem</p>
     <?php 
         echo 2+3;
+        echo 'ololo';
     ?>
 </body>
 </html>
