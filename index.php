@@ -8,6 +8,7 @@
     <p>lorem</p>
     <p>lorem</p>
     <p>lorem</p>
+    hotfix
     <?php 
         echo 2+3;
         echo 'ololo';
